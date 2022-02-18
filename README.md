@@ -1,4 +1,4 @@
-- 👋 Hola, soy @KristianDevEC
+- 👋 Hola, soy @KristiancDev
 - 👀 Estoy interesado en aprender DotNet, Python y algun día espero Flutter
 - 🌱 Me gusta leer acerca de UI/UX para mejorar mis diseños.
 - 💞️ Estaria gustoso de colaborar en proyectos, mi fuerte es VB6 por 9 años.
