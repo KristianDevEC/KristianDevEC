@@ -1,7 +1,14 @@
-- 👋 Hola, soy @KristiancDev
-- 👀 Estoy interesado en aprender DotNet, Python y algun día espero Flutter
+Hola soy Cristian Cevallos 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-CristianCevallos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristiancevallos/)](https://www.linkedin.com/in/cristiancevallos/)
+
+Soy un desarrollador de software con diez años de experiencia en el sector de seguros, en este tiempo he trabajado con lenguajes como Vb6 y C# con bases de datos Sybase, Sql Server y Oracle.
+
+Constantemente estoy aprendiendo buenas prácticas de codificación o habilidades blandas para mejorar como profesional.
+
+- 👀 Lenguajes que esoty aprendiendo son Python y Kotlin
 - 🌱 Me gusta leer acerca de UI/UX para mejorar mis diseños.
-- 💞️ Estaria gustoso de colaborar en proyectos, mi fuerte es VB6 por 9 años.
+- 💞️ Dispuesto a colaborar en proyectos.
 
 <!---
 KristianDevEC/KristianDevEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
