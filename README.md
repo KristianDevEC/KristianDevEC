@@ -6,9 +6,9 @@ Soy un desarrollador de software con diez años de experiencia en el sector de s
 
 Constantemente estoy aprendiendo buenas prácticas de codificación o habilidades blandas para mejorar como profesional.
 
-- 👀 Lenguajes que esoty aprendiendo son Python y Kotlin
+- 👀 Lenguajes en aprendizaje Python y Kotlin
 - 🌱 Me gusta leer acerca de UI/UX para mejorar mis diseños.
-- 💞️ Dispuesto a colaborar en proyectos.
+- 💞️ Dispuesto a colaborar en proyectos de forma voluntaria para adquirir mayor experiencia.
 
 <!---
 KristianDevEC/KristianDevEC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
