@@ -79,7 +79,7 @@ _Desarrollador de Software en [Liberty Seguros](https://www.libertyseguros.ec/)_
 </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristiancdev&layout=compact)
+[![KristiancDev's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KristiancDev&theme=blue-green)](https://github.com/KristiancDev/github-readme-stats)
 
 ### 📳 Contacto:
 No dudes en ponerte en contacto conmigo ayuda o necesitas un desarrollador apasionado por la creación de soluciones innovadoras.
